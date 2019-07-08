@@ -29,11 +29,11 @@ public class Topic {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public String getDescriptin() {
+	public String getDescription() {
 		return description;
 	}
-	public void setDescriptin(String descriptin) {
-		this.description = descriptin;
+	public void setDescription(String description) {
+		this.description = description;
 	}
 
 
